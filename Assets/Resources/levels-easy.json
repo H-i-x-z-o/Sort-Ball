@@ -1,0 +1,1006 @@
+{
+  "levels": [
+    {
+      "no": 1,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [1, 0, 2, 0] },
+        { "values": [2, 2] },
+        { "values": [0, 0] }
+      ]
+    },
+    {
+      "no": 2,
+      "Bottles": [
+        { "values": [1, 2, 0, 1] },
+        { "values": [1, 1] },
+        { "values": [2, 2] },
+        { "values": [0, 0, 0, 2] }
+      ]
+    },
+    {
+      "no": 3,
+      "Bottles": [
+        { "values": [0] },
+        { "values": [1, 1, 0] },
+        { "values": [0, 2, 0, 1] },
+        { "values": [2, 2, 2, 1] }
+      ]
+    },
+    {
+      "no": 4,
+      "Bottles": [
+        { "values": [1, 0, 2, 0] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [2, 2, 0] },
+        { "values": [0] }
+      ]
+    },
+    {
+      "no": 5,
+      "Bottles": [
+        { "values": [0, 0, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 1] },
+        { "values": [0, 2, 1] }
+      ]
+    },
+    {
+      "no": 6,
+      "Bottles": [
+        { "values": [0, 1, 2, 2] },
+        { "values": [0, 0, 2] },
+        { "values": [1, 1, 1, 0] },
+        { "values": [2] }
+      ]
+    },
+    {
+      "no": 7,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [1, 0, 2] },
+        { "values": [0, 0, 2] },
+        { "values": [2, 2] }
+      ]
+    },
+    {
+      "no": 8,
+      "Bottles": [
+        { "values": [] },
+        { "values": [2, 2, 2, 1] },
+        { "values": [1, 1, 1, 0] },
+        { "values": [0, 0, 0, 2] }
+      ]
+    },
+    {
+      "no": 9,
+      "Bottles": [
+        { "values": [1, 2, 1] },
+        { "values": [1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 0, 0, 1] }
+      ]
+    },
+    {
+      "no": 10,
+      "Bottles": [
+        { "values": [0, 0, 1] },
+        { "values": [0, 2, 1, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 11,
+      "Bottles": [
+        { "values": [0, 0, 2] },
+        { "values": [0, 1, 0, 2] },
+        { "values": [2] },
+        { "values": [1, 1, 1, 2] }
+      ]
+    },
+    {
+      "no": 12,
+      "Bottles": [
+        { "values": [2, 2, 1] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [1] },
+        { "values": [2, 0, 2, 1] }
+      ]
+    },
+    {
+      "no": 13,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [2, 2, 0, 0] },
+        { "values": [0] },
+        { "values": [1, 2, 0] }
+      ]
+    },
+    {
+      "no": 14,
+      "Bottles": [
+        { "values": [1, 2, 1, 0] },
+        { "values": [] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 0, 1, 1] }
+      ]
+    },
+    {
+      "no": 15,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [0] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 0, 0] }
+      ]
+    },
+    {
+      "no": 16,
+      "Bottles": [
+        { "values": [2, 2, 2, 0] },
+        { "values": [0] },
+        { "values": [2, 1, 0, 1] },
+        { "values": [1, 1, 0] }
+      ]
+    },
+    {
+      "no": 17,
+      "Bottles": [
+        { "values": [1, 2, 0, 1] },
+        { "values": [1, 1, 2, 0] },
+        { "values": [2, 2, 0, 0] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 18,
+      "Bottles": [
+        { "values": [2, 2, 2, 1] },
+        { "values": [0, 0, 1] },
+        { "values": [2, 0, 3, 1] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 19,
+      "Bottles": [
+        { "values": [0, 0, 2, 2] },
+        { "values": [1, 1, 1, 0] },
+        { "values": [0, 1, 2] },
+        { "values": [2] }
+      ]
+    },
+    {
+      "no": 20,
+      "Bottles": [
+        { "values": [0, 0, 0, 1] },
+        { "values": [0, 3, 2] },
+        { "values": [3, 3, 2, 2] },
+        { "values": [2] },
+        { "values": [1, 1, 1, 3] }
+      ]
+    },
+    {
+      "no": 21,
+      "Bottles": [
+        { "values": [0, 0, 2, 1] },
+        { "values": [0, 3, 1, 0] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [2, 2, 1] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 22,
+      "Bottles": [
+        { "values": [2, 0] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [0, 0, 2] },
+        { "values": [2, 1, 0] }
+      ]
+    },
+    {
+      "no": 23,
+      "Bottles": [
+        { "values": [2, 1, 3, 0] },
+        { "values": [2, 2, 0, 1] },
+        { "values": [] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [0, 0, 1, 1] }
+      ]
+    },
+    {
+      "no": 24,
+      "Bottles": [
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 1, 3, 3] },
+        { "values": [3] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [2, 1, 3] }
+      ]
+    },
+    {
+      "no": 25,
+      "Bottles": [
+        { "values": [2, 2, 1, 1] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [2, 0, 1] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 26,
+      "Bottles": [
+        { "values": [1, 2, 1, 0] },
+        { "values": [1, 1, 2, 0] },
+        { "values": [2, 2, 0, 0] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 27,
+      "Bottles": [
+        { "values": [1, 1, 2, 0] },
+        { "values": [0, 0, 2] },
+        { "values": [2] },
+        { "values": [1, 1, 0, 2] }
+      ]
+    },
+    {
+      "no": 28,
+      "Bottles": [
+        { "values": [1, 2] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [2, 2, 0] },
+        { "values": [0, 0, 2] }
+      ]
+    },
+    {
+      "no": 29,
+      "Bottles": [
+        { "values": [2, 2, 2, 0] },
+        { "values": [2, 1, 0, 1] },
+        { "values": [0, 0, 1] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 30,
+      "Bottles": [
+        { "values": [2, 2, 1] },
+        { "values": [0, 2, 0, 2] },
+        { "values": [0, 0, 1] },
+        { "values": [1, 1] }
+      ]
+    },
+    {
+      "no": 31,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [] },
+        { "values": [3, 0, 2, 0] },
+        { "values": [0, 0, 2, 2] }
+      ]
+    },
+    {
+      "no": 32,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [1, 0, 2, 0] },
+        { "values": [2, 2, 0, 0] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 33,
+      "Bottles": [
+        { "values": [3, 3, 3, 0] },
+        { "values": [3, 2, 1, 2] },
+        { "values": [2] },
+        { "values": [1, 1, 2] },
+        { "values": [0, 0, 0, 1] }
+      ]
+    },
+    {
+      "no": 34,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [0, 0, 1, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [3, 0, 1] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 35,
+      "Bottles": [
+        { "values": [2, 2, 1, 1] },
+        { "values": [1] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [2, 0, 1] }
+      ]
+    },
+    {
+      "no": 36,
+      "Bottles": [
+        { "values": [0, 0, 0, 2] },
+        { "values": [] },
+        { "values": [2, 2, 1, 1] },
+        { "values": [0, 1, 2, 1] }
+      ]
+    },
+    {
+      "no": 37,
+      "Bottles": [
+        { "values": [0, 0, 0, 1] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [2, 2] },
+        { "values": [0, 2] }
+      ]
+    },
+    {
+      "no": 38,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [] },
+        { "values": [1, 3, 2, 3] },
+        { "values": [0, 0, 3, 3] },
+        { "values": [2, 2, 2, 0] }
+      ]
+    },
+    {
+      "no": 39,
+      "Bottles": [
+        { "values": [] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [0, 1, 0, 0] },
+        { "values": [2, 2, 2, 0] }
+      ]
+    },
+    {
+      "no": 40,
+      "Bottles": [
+        { "values": [1] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [2, 2, 1] },
+        { "values": [1, 3, 0, 2] }
+      ]
+    },
+    {
+      "no": 41,
+      "Bottles": [
+        { "values": [2, 1, 3, 3] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [0, 0, 0, 3] }
+      ]
+    },
+    {
+      "no": 42,
+      "Bottles": [
+        { "values": [2, 2, 2, 1] },
+        { "values": [0] },
+        { "values": [2, 0, 0] },
+        { "values": [1, 1, 1, 0] }
+      ]
+    },
+    {
+      "no": 43,
+      "Bottles": [
+        { "values": [2, 2, 1, 0] },
+        { "values": [2, 0, 1, 2] },
+        { "values": [] },
+        { "values": [1, 1, 0, 0] }
+      ]
+    },
+    {
+      "no": 44,
+      "Bottles": [
+        { "values": [1, 0, 2, 0] },
+        { "values": [0, 0, 1, 2] },
+        { "values": [] },
+        { "values": [2, 2, 1, 1] }
+      ]
+    },
+    {
+      "no": 45,
+      "Bottles": [
+        { "values": [2, 2, 3, 0] },
+        { "values": [] },
+        { "values": [0, 0, 3, 3] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [2, 3, 1, 0] }
+      ]
+    },
+    {
+      "no": 46,
+      "Bottles": [
+        { "values": [0, 0, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1] },
+        { "values": [2, 0, 1, 1] }
+      ]
+    },
+    {
+      "no": 47,
+      "Bottles": [
+        { "values": [0, 0, 2, 1] },
+        { "values": [1, 1, 2] },
+        { "values": [2] },
+        { "values": [0, 1, 0, 2] }
+      ]
+    },
+    {
+      "no": 48,
+      "Bottles": [
+        { "values": [2, 2, 2, 3] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [0, 0, 3] },
+        { "values": [3, 0, 3] },
+        { "values": [1, 0] }
+      ]
+    },
+    {
+      "no": 49,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [2, 2, 0] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [0] },
+        { "values": [1, 3, 2, 0] }
+      ]
+    },
+    {
+      "no": 50,
+      "Bottles": [
+        { "values": [0, 3, 2, 1] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [3, 3, 1] },
+        { "values": [2, 2, 2, 3] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 51,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [2, 2, 0] },
+        { "values": [1, 2, 0, 0] },
+        { "values": [0] }
+      ]
+    },
+    {
+      "no": 52,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [1, 3, 2, 3] },
+        { "values": [3, 3, 0, 2] },
+        { "values": [2] },
+        { "values": [0, 0, 2] }
+      ]
+    },
+    {
+      "no": 53,
+      "Bottles": [
+        { "values": [0, 0, 0, 1] },
+        { "values": [2, 2, 2, 4] },
+        { "values": [1, 1, 3, 3] },
+        { "values": [4, 4, 4, 1] },
+        { "values": [3] },
+        { "values": [0, 2, 3] }
+      ]
+    },
+    {
+      "no": 54,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [1, 0, 3, 3] },
+        { "values": [2, 2, 3] },
+        { "values": [3] }
+      ]
+    },
+    {
+      "no": 55,
+      "Bottles": [
+        { "values": [3, 3, 3, 0] },
+        { "values": [3, 1, 2, 1] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [1] },
+        { "values": [2, 2, 1] }
+      ]
+    },
+    {
+      "no": 56,
+      "Bottles": [
+        { "values": [4, 4, 4, 0] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [1, 1, 2] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [4, 3, 1, 2] },
+        { "values": [2] }
+      ]
+    },
+    {
+      "no": 57,
+      "Bottles": [
+        { "values": [0, 0, 2, 2] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [0, 1, 3, 2] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 58,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [4, 4, 4, 1] },
+        { "values": [3, 4, 0] },
+        { "values": [0, 0, 2] },
+        { "values": [1, 1, 0] },
+        { "values": [2, 2, 1] }
+      ]
+    },
+    {
+      "no": 59,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 0, 1, 1] },
+        { "values": [3, 2, 0, 1] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 60,
+      "Bottles": [
+        { "values": [] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [0, 3, 2, 1] },
+        { "values": [2, 2, 0, 0] },
+        { "values": [1, 1, 1, 2] }
+      ]
+    },
+    {
+      "no": 61,
+      "Bottles": [
+        { "values": [1, 1, 1, 3] },
+        { "values": [0, 2] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [1, 2, 0] },
+        { "values": [0, 0, 2] }
+      ]
+    },
+    {
+      "no": 62,
+      "Bottles": [
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 0, 3] },
+        { "values": [4, 4, 4, 0] },
+        { "values": [3, 3, 1] },
+        { "values": [2, 4, 1] },
+        { "values": [1, 1, 3] }
+      ]
+    },
+    {
+      "no": 63,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [3, 2, 4, 1] },
+        { "values": [] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 0, 1, 1] },
+        { "values": [4, 4, 4, 0] }
+      ]
+    },
+    {
+      "no": 64,
+      "Bottles": [
+        { "values": [2, 2, 2, 1] },
+        { "values": [0, 0, 0, 3] },
+        { "values": [2, 0, 3, 1] },
+        { "values": [3] },
+        { "values": [1, 1, 3] }
+      ]
+    },
+    {
+      "no": 65,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [3, 2, 0, 2] },
+        { "values": [] },
+        { "values": [0, 0, 2, 0] },
+        { "values": [1, 1, 1, 2] }
+      ]
+    },
+    {
+      "no": 66,
+      "Bottles": [
+        { "values": [2, 0, 1, 2] },
+        { "values": [] },
+        { "values": [0, 0, 0, 3] },
+        { "values": [3, 3, 2, 2] },
+        { "values": [1, 1, 1, 3] }
+      ]
+    },
+    {
+      "no": 67,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [3, 2, 4, 1] },
+        { "values": [4, 4, 0, 1] },
+        { "values": [0, 0, 4, 1] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 68,
+      "Bottles": [
+        { "values": [2, 2, 2, 4] },
+        { "values": [3, 3, 0, 4] },
+        { "values": [2, 3, 1, 0] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [4] },
+        { "values": [0, 0, 4] }
+      ]
+    },
+    {
+      "no": 69,
+      "Bottles": [
+        { "values": [0, 0, 0, 2] },
+        { "values": [3, 3, 3, 1] },
+        { "values": [0, 3, 4] },
+        { "values": [1, 1, 4, 4] },
+        { "values": [2, 2, 2, 1] },
+        { "values": [4] }
+      ]
+    },
+    {
+      "no": 70,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [2, 2, 3, 0] },
+        { "values": [1, 2, 3, 2] },
+        { "values": [3, 3, 0] },
+        { "values": [0] }
+      ]
+    },
+    {
+      "no": 71,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [1, 1, 1, 0] },
+        { "values": [0, 0, 2, 2] },
+        { "values": [2] },
+        { "values": [3, 0, 2] }
+      ]
+    },
+    {
+      "no": 72,
+      "Bottles": [
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [3, 3, 0, 0] },
+        { "values": [2, 1, 3, 0] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 73,
+      "Bottles": [
+        { "values": [1, 1, 0] },
+        { "values": [3, 1, 0, 2] },
+        { "values": [3, 3, 1, 0] },
+        { "values": [0] },
+        { "values": [2, 2, 2, 3] }
+      ]
+    },
+    {
+      "no": 74,
+      "Bottles": [
+        { "values": [1, 0, 2, 3] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [3] },
+        { "values": [2, 2, 3] }
+      ]
+    },
+    {
+      "no": 75,
+      "Bottles": [
+        { "values": [0, 0, 0, 2] },
+        { "values": [0, 1, 3] },
+        { "values": [2, 2, 2, 1] },
+        { "values": [1, 1, 3, 3] },
+        { "values": [3] }
+      ]
+    },
+    {
+      "no": 76,
+      "Bottles": [
+        { "values": [0, 0, 0, 2] },
+        { "values": [0, 1, 3, 1] },
+        { "values": [1, 2] },
+        { "values": [3, 3, 3, 1] },
+        { "values": [2, 2] }
+      ]
+    },
+    {
+      "no": 77,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [1, 2, 4, 3] },
+        { "values": [0, 0, 0, 3] },
+        { "values": [3, 3, 2, 4] },
+        { "values": [2, 2, 4] },
+        { "values": [4] }
+      ]
+    },
+    {
+      "no": 78,
+      "Bottles": [
+        { "values": [1, 1, 1, 0] },
+        { "values": [4, 4, 4, 2] },
+        { "values": [3, 3, 2] },
+        { "values": [0, 0, 0, 3] },
+        { "values": [4, 1, 3, 2] },
+        { "values": [2] }
+      ]
+    },
+    {
+      "no": 79,
+      "Bottles": [
+        { "values": [0, 0, 0, 2] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [3, 3, 2, 2] },
+        { "values": [] },
+        { "values": [0, 1, 3, 2] }
+      ]
+    },
+    {
+      "no": 80,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [3, 0, 1] },
+        { "values": [0, 0, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 1] }
+      ]
+    },
+    {
+      "no": 81,
+      "Bottles": [
+        { "values": [0, 0, 0, 3] },
+        { "values": [1, 1, 2, 2] },
+        { "values": [3, 3, 3, 1] },
+        { "values": [2] },
+        { "values": [0, 1, 2] }
+      ]
+    },
+    {
+      "no": 82,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [1, 3, 0, 3] },
+        { "values": [3, 3, 0, 2] },
+        { "values": [0, 0, 2, 2] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 83,
+      "Bottles": [
+        { "values": [0, 0, 0, 3] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [1, 1, 2, 4] },
+        { "values": [0, 1, 4, 1] },
+        { "values": [2, 2, 4, 4] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 84,
+      "Bottles": [
+        { "values": [4, 4, 4, 2] },
+        { "values": [3, 3, 0, 2] },
+        { "values": [4, 3, 1, 0] },
+        { "values": [1, 1, 1, 3] },
+        { "values": [0, 0, 2, 2] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 85,
+      "Bottles": [
+        { "values": [3, 3, 3, 1] },
+        { "values": [1, 1, 1, 0] },
+        { "values": [3, 4, 5, 2] },
+        { "values": [4, 4, 0, 2] },
+        { "values": [5, 5, 5, 4] },
+        { "values": [0, 0, 2, 2] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 86,
+      "Bottles": [
+        { "values": [0, 4, 3, 1] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [4, 4, 4, 2] },
+        { "values": [3, 3, 1, 1] },
+        { "values": [] },
+        { "values": [2, 2, 2, 3] }
+      ]
+    },
+    {
+      "no": 87,
+      "Bottles": [
+        { "values": [4, 0, 3, 1] },
+        { "values": [4, 4, 4, 1] },
+        { "values": [0, 0, 0, 3] },
+        { "values": [1, 1, 2] },
+        { "values": [3, 3, 2, 2] },
+        { "values": [2] }
+      ]
+    },
+    {
+      "no": 88,
+      "Bottles": [
+        { "values": [4, 4, 4, 0] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [1, 1, 5, 5] },
+        { "values": [2, 2, 2, 5] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [4, 3, 1, 5] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 89,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [0, 0, 1, 1] },
+        { "values": [4, 4, 4, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [3, 0, 4, 1] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 90,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 4, 5, 3] },
+        { "values": [4, 4, 5, 3] },
+        { "values": [5, 5, 3] },
+        { "values": [0, 0, 0, 4] },
+        { "values": [3] }
+      ]
+    },
+    {
+      "no": 91,
+      "Bottles": [
+        { "values": [1, 1, 1, 2] },
+        { "values": [4, 4, 4, 0] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [1, 4, 3, 5] },
+        { "values": [] },
+        { "values": [5, 5, 0, 0] },
+        { "values": [2, 2, 2, 5] }
+      ]
+    },
+    {
+      "no": 92,
+      "Bottles": [
+        { "values": [2, 2, 2, 3] },
+        { "values": [2, 0, 1, 4] },
+        { "values": [] },
+        { "values": [1, 1, 1, 5] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [5, 5, 0, 0] },
+        { "values": [4, 4, 4, 5] }
+      ]
+    },
+    {
+      "no": 93,
+      "Bottles": [
+        { "values": [3, 3, 3, 4] },
+        { "values": [3, 2, 1] },
+        { "values": [4, 4, 4, 0] },
+        { "values": [0, 0, 1] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [1, 1] }
+      ]
+    },
+    {
+      "no": 94,
+      "Bottles": [
+        { "values": [4, 4, 4, 0] },
+        { "values": [4, 3, 2, 3] },
+        { "values": [0, 0, 0, 1] },
+        { "values": [3, 3, 2, 1] },
+        { "values": [2, 2, 1] },
+        { "values": [1] }
+      ]
+    },
+    {
+      "no": 95,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [4, 4, 4, 1] },
+        { "values": [1, 1, 2, 0] },
+        { "values": [3, 4, 1, 0] },
+        { "values": [2, 0, 2, 0] },
+        { "values": [] }
+      ]
+    },
+    {
+      "no": 96,
+      "Bottles": [
+        { "values": [3, 3, 3, 4] },
+        { "values": [4, 4, 1, 2] },
+        { "values": [3, 4, 2, 0] },
+        { "values": [] },
+        { "values": [1, 1, 2, 2] },
+        { "values": [0, 0, 0, 1] }
+      ]
+    },
+    {
+      "no": 97,
+      "Bottles": [
+        { "values": [4, 4, 4, 1] },
+        { "values": [3, 3, 3, 2] },
+        { "values": [0, 0, 0, 5] },
+        { "values": [1, 1, 2, 2] },
+        { "values": [5, 5, 5, 1] },
+        { "values": [] },
+        { "values": [3, 4, 0, 2] }
+      ]
+    },
+    {
+      "no": 98,
+      "Bottles": [
+        { "values": [3, 3, 3, 2] },
+        { "values": [2, 2, 2, 0] },
+        { "values": [0, 1] },
+        { "values": [4, 4, 4, 0] },
+        { "values": [1, 1, 0] },
+        { "values": [3, 4, 1] }
+      ]
+    },
+    {
+      "no": 99,
+      "Bottles": [
+        { "values": [5, 5, 5, 1] },
+        { "values": [3, 3, 3, 0] },
+        { "values": [1, 1, 1, 2] },
+        { "values": [3, 5, 4, 2] },
+        { "values": [2] },
+        { "values": [4, 4, 2] },
+        { "values": [0, 0, 0, 4] }
+      ]
+    },
+    {
+      "no": 100,
+      "Bottles": [
+        { "values": [5, 5, 5, 0] },
+        { "values": [0, 0, 0, 2] },
+        { "values": [2, 2, 3, 4] },
+        { "values": [5, 1, 3, 2] },
+        { "values": [1, 1, 1, 4] },
+        { "values": [3, 3, 4] },
+        { "values": [4] }
+      ]
+    }
+  ]
+}
